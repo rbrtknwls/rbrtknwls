@@ -1,27 +1,16 @@
 # Heyo, thanks for checking out my GitHub!
 
-Im Robbie Knowles a first year **CS Student at Waterloo University**. Apart from doing school work, I try my best at competitive programming (mainly on Leetcode) and hackathons (have been to 10+ and organized 2 now). Please check out my projects and repositories to learn more!
+Im Robbie Knowles a first year **CS Student** at the University of Waterloo. Apart from doing school work, I try my best at **competitive programming:**
+> mainly on DMOJ and Leetcode, in C++ and Python
 
-Im looking for 
+I also love doing **hackathons (both participating and hosting):**
+> I helped run THacks 2, and have been to over 10+ Hackathons. Please check out my projects and repositories to learn more!
 
+Im currently looking for **internship and co-op opportunities** for the **Summer of 2021**, so please feel free to get into contact with me! 
 ## Current Area's of Interest 
 
-| Area of Interest            | Frameworks                                          | Relative skill     |
-| :----:                      |    :----:                                          |      :----:  |
-| __Natural Language Processing__ | __NLTK__ (Python), __AWS Comprehend__ (JS)       | ![50%](https://progress-bar.dev/75)  |
-| __Backend Developent__  | __REST/Express__ (Node.js), __Django__ (Python),          | ![50%](https://progress-bar.dev/70)    |
-<!--
-<span style="color:blue">some *This is Blue italic.* text</span>
-**rbrtknwls/rbrtknwls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Area of Interest            | Frameworks                                           | Relevant Hackathons     |  Relative skill     | 
+| :----:                      |    :----:                                           | :----:    |     :----:  |
+| __Natural Language Processing__ | __NLTK__ (Python), __AWS Comprehend__ (JS)     | [ConU Hacks](https://github.com/rbrtknwls/ConUHacks-text-recognition-server) | ![50%](https://progress-bar.dev/75)  |
+| __Backend Developent__  | __REST/Express__ (Node.js), __Django__ (Python)       | [UofT Hacks](https://github.com/rbrtknwls/Credid-UofTHacks7), [Oxford Hacks](https://github.com/rbrtknwls/OxfordHacks-2020), 5 more!  | ![50%](https://progress-bar.dev/70)    |
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
