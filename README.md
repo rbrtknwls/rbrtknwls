@@ -1,6 +1,13 @@
-### Hi there 👋
+## Heyo!
 
+Im Robbie Knowles a first year **CS Student at Waterloo University**, I love Competitive Programing and Hackathons (been to 10+ and have organized 2 of them).
+
+| Subject                    | Frameworks                                          | Relative skill     |
+| :----:                      |    :----:                                          |      :----:  |
+| __Natural Language Processing__ | __NLTK__ (Python 3), __AWS__ Comprehend (JS)       | ![50%](https://progress-bar.dev/60)  |
+| __Full Stack Development__   | Text        | And more      |
 <!--
+<span style="color:blue">some *This is Blue italic.* text</span>
 **rbrtknwls/rbrtknwls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
