@@ -1,11 +1,15 @@
-## Heyo!
+# Heyo, thanks for checking out my GitHub!
 
-Im Robbie Knowles a first year **CS Student at Waterloo University**, I love Competitive Programing and Hackathons (been to 10+ and have organized 2 of them).
+Im Robbie Knowles a first year **CS Student at Waterloo University**. Apart from doing school work, I try my best at competitive programming (mainly on Leetcode) and hackathons (have been to 10+ and organized 2 now). Please check out my projects and repositories to learn more!
 
-| Subject                    | Frameworks                                          | Relative skill     |
+Im looking for 
+
+## Current Area's of Interest 
+
+| Area of Interest            | Frameworks                                          | Relative skill     |
 | :----:                      |    :----:                                          |      :----:  |
-| __Natural Language Processing__ | __NLTK__ (Python 3), __AWS__ Comprehend (JS)       | ![50%](https://progress-bar.dev/60)  |
-| __Full Stack Development__   | Text        | And more      |
+| __Natural Language Processing__ | __NLTK__ (Python), __AWS Comprehend__ (JS)       | ![50%](https://progress-bar.dev/75)  |
+| __Backend Developent__  | __REST/Express__ (Node.js), __Django__ (Python),          | ![50%](https://progress-bar.dev/70)    |
 <!--
 <span style="color:blue">some *This is Blue italic.* text</span>
 **rbrtknwls/rbrtknwls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
