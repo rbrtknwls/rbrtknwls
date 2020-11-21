@@ -19,3 +19,6 @@ Im currently looking for **internship and co-op opportunities** for the **Summer
 | __Parallel/Distributed Computing__ | __OpenMP__ (C), __Message Passing Interface__ (C++)                                          | None yet..                                                                                                                                  | ![50%](https://progress-bar.dev/10)    |
 
 
+
+## Learn More
+<code>[Email](mailto:r2knowle@uwaterloo.ca)</code> | <code>[LinkedIn](https://www.linkedin.com/in/robbie-knowles/)</code> | <code>[Devpost](https://devpost.com/rbrtknwls?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)</code> | <code>[Website](https://rbrtknwls.com/)</code>
