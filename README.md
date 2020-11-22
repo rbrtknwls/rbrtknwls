@@ -1,6 +1,6 @@
 # Heyo, thanks for checking out my GitHub!
 
-Im Robert (Robbie) Knowles a first year **CS Student** at the University of Waterloo. Apart from doing school work, I try my best at **competitive programming:**
+I'm Robert (Robbie) Knowles a first year **CS Student** at the University of Waterloo. Apart from doing school work, I try my best at **competitive programming:**
 > mainly on DMOJ and Leetcode, in C++ and Python
 
 I also love doing **hackathons (both participating and hosting):**
