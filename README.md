@@ -24,9 +24,10 @@ Im currently looking for **internship and co-op opportunities** for the **Summer
 <br><p align="center">
   [![LinkedIn](https://img.shields.io/badge/LinkedIn--369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/robbie-knowles)
   [![E-Mail](https://img.shields.io/badge/Email--2a8?style=flat-square&logo=gmail&logoColor=white)](mailto:r2knowle@uwaterloo.ca)
-  [![Devpost](https://img.shields.io/badge/Devpost--031?style=flat-square&logo=codersrank&logoColor=white)](https://devpost.com/rbrtknwls?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-  [![Website](https://img.shields.io/badge/OnlineCV--C20?style=flat-square&logo=coda&logoColor=white)](https://rbrtknwls.com/)
+  [![Devpost](https://img.shields.io/badge/Devpost--031?style=flat-square&logo=dev.to&logoColor=white)](https://devpost.com/rbrtknwls?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
   [![Leetcode](https://img.shields.io/badge/LeetCode--FA2?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/RobbK/)
+  [![Website](https://img.shields.io/badge/OnlineCV--C20?style=flat-square&logo=codersrank&logoColor=white)](https://rbrtknwls.com/)
+  [![Resume](https://img.shields.io/badge/Resume--157?style=flat-square&logo=docusign&logoColor=white)](https://rbrtknwls.com/)
   [![Visits](https://komarev.com/ghpvc/?username=rbrtknwls&logo=GitHub&label=Github%20Visits&color=336699&logoColor=white&style=flat-square)](https://github.com/rbrtknwls)
 </p>
 
