@@ -1,4 +1,4 @@
-# Heyo, thanks for checking out my GitHub!
+# Hey, thanks for checking out my GitHub!
 
 I'm Robert (Robbie) Knowles a first year **CS Student** at the University of Waterloo. In my freetime I also love to try and do some **competitive programming:**
 > mainly on DMOJ and Leetcode, in C++ and Python
