@@ -5,8 +5,7 @@ I'm Robert (Robbie) Knowles a first year **CS Student** at the University of Wat
 
 I also love doing **hackathons (both participating and hosting):**
 > I helped run THacks 2, and have been to over 10+ Hackathons. Please check out my projects and repositories to learn more!
-
-Im currently looking for **internship and co-op opportunities** for the **Summer of 2021**, so please feel free to get into contact with me! 
+> 
 ## Current Area's of Interest 
 
 | Area of Interest                   | Frameworks / Tool-Kits                                                                       | Relevant Hackathons                                                                                                                         |  Relative Interest     | 
