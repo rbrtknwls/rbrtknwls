@@ -1,12 +1,9 @@
 # Hey, thanks for checking out my GitHub!
 
-I'm Robert (Robbie) Knowles a fourth year **CS Student** at the University of Waterloo. In my freetime I also love to try and do some **competitive programming:**
-> mainly on DMOJ and Leetcode, in C++ and Python
+I'm Robert (Robbie) Knowles a fourth year **cs student** at the University of Waterloo, specializing in **artifical intelligence** with minors in:
+> Combinatorics and Optimization, Computational Mathematics, and Economics
 
-I also love doing **hackathons (both participating and hosting):**
-> I helped run THacks 2, and have been to over 10+ Hackathons. Please check out my projects and repositories to learn more!
-> 
-## Current Area's of Interest 
+## Selected Hackathon Projects
 
 | Area of Interest                   | Frameworks / Tool-Kits                                                                       | Relevant Hackathons                                                                                                                         |  Relative Interest     | 
 | :----:                             |    :----:                                                                                    | :----:                                                                                                                                      |     :----:  |
